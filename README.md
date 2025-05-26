@@ -21,4 +21,4 @@ Ce projet consiste en une application web simple pour la gestion des clients, de
 ---
 
 ## 👩‍💻 Réalisé par :
-Bayane TOUKI Maryem TALBI
+Bayane TOUKI et Maryem TALBI
