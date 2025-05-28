@@ -1,4 +1,5 @@
 # 🏨 Projet de Gestion d'Hôtel
+### 👩‍💻 Réalisé par : <br/> Bayane TOUKI (2330708) et Maryem TALBI (2334356) <br/>Etudiantes en IAPS4
 
 Ce projet consiste en une application web simple pour la gestion des clients, des chambres et des réservations d’un hôtel. Il utilise :
 
@@ -20,5 +21,3 @@ Ce projet consiste en une application web simple pour la gestion des clients, de
 
 ---
 
-## 👩‍💻 Réalisé par :
-Bayane TOUKI et Maryem TALBI
